@@ -36,7 +36,7 @@ With the local database in place, users can select specific periods to review th
 Download the project and open it in Android Studio. After building all files, click "Run".
 
 ## Process of FYP
-https://studio.youtube.com/video/qmVOjd_t6TM/edit
+[https://studio.youtube.com/video/qmVOjd_t6TM/edit](https://youtu.be/qmVOjd_t6TM)
 
 
 
