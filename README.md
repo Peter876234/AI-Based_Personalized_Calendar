@@ -35,6 +35,9 @@ With the local database in place, users can select specific periods to review th
 - Virtual device with API 30 or above(Suggest using Pixel 6 Pro 34)
 Download the project and open it in Android Studio. After building all files, click "Run".
 
+## Process of FYP
+https://studio.youtube.com/video/qmVOjd_t6TM/edit
+
 
 
 
